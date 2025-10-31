@@ -1,7 +1,7 @@
 #+TITLE: Testing Electronic Claims Manager
 
 
-* Quick Start
+* Prepartion: The Start.
 
 We've chosen [[https://playwright.dev/][Playwright]] for some unkown reason.
 
